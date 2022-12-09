@@ -12,13 +12,13 @@ How to Contribute to this project
 ### This is the project structure
 
 |----------scientific-calculator------
-|_index.html
-|_index.js
-|_buttons.js
-|_calculator.js
-|_style.css
-|_new.jpg
-|_README.md
+- |_index.html
+- |_index.js
+- |_buttons.js
+- |_calculator.js
+- |_style.css
+- |_new.jpg
+- |_README.md
 
 ### Detailed Project Structure
 
